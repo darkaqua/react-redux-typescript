@@ -1,4 +1,4 @@
-##Example project || react + redux + typescript
+##Example project || react + redux + typescript + storybooks ||
 
 ### FileWatcher for <style\>.module.scss
 ```xml
